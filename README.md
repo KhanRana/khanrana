@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-
+- I am working on Cloud Engineering
 - 🔭 I’m currently working on Data Modelling
 - 🌱 I’m currently learning Advanced JS
 - 💬 Ask me about Data

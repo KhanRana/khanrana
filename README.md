@@ -26,5 +26,3 @@ Technologies Used: HTML5, CSS, Python, JavaScript, SQLite3. GitHub: [Employees D
 Technologies Used: HTML5, CSS, JavaScript. GitHub: [GoC](https://github.com/KhanRana/game_of_chance)
 -	Boxing Club – Community boxing club website. 
 Technologies Used: HTML5, CSS. GitHub:  [Boxing Club](https://github.com/KhanRana/boxing_club)	
-![image](https://github.com/KhanRana/khanrana/assets/47982799/ca3ffe40-ab6f-4bbb-9852-aaec6460ef2e)
-

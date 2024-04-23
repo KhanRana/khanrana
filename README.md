@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 A little bit about me!
-- I am learning AWS serverless services
+- I'm learning Playwright 
+- I'm collecting AWS badges
 - 🔭 I’m currently working on backend engineering using node.js.
 - 🌱 I’m currently learning Advanced JS
 - 💬 Ask me about Backend, Data, Cloud, & Testing

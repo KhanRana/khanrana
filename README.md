@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 A little bit about me!
-- I'm learning Playwright 
+- I'm learning GoLang 
 - I'm collecting AWS badges
-- 🔭 I’m currently working on backend engineering using node.js.
+- 🔭 I’m currently working on Full Stack engineering using node.js and Flask!
 - 🌱 I’m currently learning Advanced JS
 - 💬 Ask me about Backend, Data, Cloud, & Testing
 - 📫 How to reach me: agile.coder@outlook.com

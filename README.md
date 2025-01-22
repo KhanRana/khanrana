@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 A little bit about me!
-- I'm learning GoLang 
+- I'm diving deep into the world of C and embedded programming!
 - I'm collecting AWS badges
 - 🔭 I’m currently building a Full Stack Mapbox Application!
 - I am learning C, to dive into embedded systems!
